@@ -2,7 +2,7 @@
 
 ## 1. Cel
 
-Projekt buduje i porównuje dwa modele ryzyka kredytowego 
+Projekt polegał na zbudowaniu i porównaniu dwóch modeli ryzyka kredytowego 
 
 - **Model interpretowalny** – regresja logistyczna  
 - **Model „black-box”** – XGBoost
@@ -21,8 +21,8 @@ Zakres obejmuje:
 
 ```text
 .
-├── Kody.ipynb                     # główny notebook: EDA → modele → kalibracja → ratingi
+├── Kody.ipynb                     # główny notebook: EDA -> modele -> kalibracja -> ratingi
 ├── Raport_interpretowalność.pdf   # raport techniczny z wynikami i wyjaśnialnością
-├── data/
-│   └── zbior_13.csv                # dane wejściowe (oryginalny plik ze zbioru)
+├── zbiór_13.csv                   # dane wejściowe
+├── requirements.txt               # lista bibliotek użytych w projekcie
 └── README.md                      # ten plik
