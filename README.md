@@ -18,12 +18,18 @@ Zakres obejmuje:
 ---
 
 ## 2. Struktura projektu
+
+```text
+
 .
 ├── Kody.ipynb                     # główny notebook: EDA -> modele -> kalibracja -> ratingi
 ├── Raport_interpretowalność.pdf   # raport techniczny z wynikami i wyjaśnialnością
 ├── zbiór_13.csv                   # dane wejściowe
 ├── requirements.txt               # lista bibliotek użytych w projekcie
 └── README.md                      # ten plik
+
+
+```
 
 ## 3. Kluczowe wnioski biznesowe z EDA
 Eksploracyjna analiza danych (EDA) pozwoliła zidentyfikować główne czynniki determinujące ryzyko niewypłacalności (defaultu). Najważniejsze obserwacje:
