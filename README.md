@@ -18,8 +18,6 @@ Zakres obejmuje:
 ---
 
 ## 2. Struktura projektu
-
-```text
 .
 ├── Kody.ipynb                     # główny notebook: EDA -> modele -> kalibracja -> ratingi
 ├── Raport_interpretowalność.pdf   # raport techniczny z wynikami i wyjaśnialnością
